@@ -1,4 +1,4 @@
-## Lego is a landing template for personal projects. ##
+## [Lego](https://yooluxe.github.io/lego/) is a landing template for personal projects. ##
 
 Clean landing design website.
 
