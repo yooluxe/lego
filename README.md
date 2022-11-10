@@ -1,8 +1,6 @@
-## [Lego](https://yooluxe.github.io/lego/) is a landing template for personal projects. ##
-
-Clean landing design website.
-
 <img src="preview/view.jpg" width="820" height="460">
+
+### [Lego](https://legoo.vercel.app/) is a landing template for personal projects. ###
 
 ```
 Features
