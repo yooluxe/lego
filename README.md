@@ -1,4 +1,4 @@
-<img src="preview/view.jpg" width="820" height="460">
+<img src="preview/view.jpg">
 
 ### [Lego](https://legoo.vercel.app/) is a landing template for personal projects. ###
 
